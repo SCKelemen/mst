@@ -1,0 +1,6 @@
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
