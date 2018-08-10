@@ -1,0 +1,11 @@
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\bin\Debug\netcoreapp2.0\ExampleService.deps.json
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\bin\Debug\netcoreapp2.0\ExampleService.runtimeconfig.json
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\bin\Debug\netcoreapp2.0\ExampleService.runtimeconfig.dev.json
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\bin\Debug\netcoreapp2.0\ExampleService.dll
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\bin\Debug\netcoreapp2.0\ExampleService.pdb
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\obj\Debug\netcoreapp2.0\ExampleService.csprojResolveAssemblyReference.cache
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\obj\Debug\netcoreapp2.0\ExampleService.csproj.CoreCompileInputs.cache
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\obj\Debug\netcoreapp2.0\ExampleService.AssemblyInfoInputs.cache
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\obj\Debug\netcoreapp2.0\ExampleService.AssemblyInfo.cs
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\obj\Debug\netcoreapp2.0\ExampleService.dll
+C:\Users\skelemen\Desktop\mst\mst\ExampleService\ExampleService\obj\Debug\netcoreapp2.0\ExampleService.pdb
